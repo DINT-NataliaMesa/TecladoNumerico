@@ -43,9 +43,9 @@
             </Viewbox>
         </Button>
 
-        <!-- 
+        
         <Button Grid.Row="4" Grid.Column="0" Grid.ColumnSpan="3" Margin = "10, 0, 10, 10" Tag="0" FontSize="28" Click="Button_Click">0</Button>
-        -->
+        
 
         <Button Grid.Row="1" Grid.Column="1" Margin = "10" Tag="2" Click="Button_Click">
             <Viewbox>
